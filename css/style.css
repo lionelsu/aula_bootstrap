@@ -1,6 +1,7 @@
+.textShadow {
+    text-shadow: 0 0 5px rgb(0, 0, 0);
+}
 
-.logo {
-    height: 200px;
-    width: 200px;
-    border-radius: 50%;
+body {
+    background-image: url(/img/bd2.jpg);
 }
