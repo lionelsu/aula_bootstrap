@@ -13,7 +13,7 @@
   
 ##
   
-<p>Esta página foi montada durante a aula e é possível ver como ficou diretamente no site da Dio. Porém, eu me desafiei um pouco pois eu achei o layout da aula uma ##### e decidi criar um site de peixes porquê sim. Bem, como meu nível ainda é baixo, eu levei várias horas brincando e quebrando a cabeça com esse site e muito mais com a pesquisa sobre os peixes para deixar o assunto coerente. 
+<p>Esta página foi montada durante a aula e é possível ver como ficou diretamente no site da Dio. Porém, eu me desafiei um pouco pois eu achei o layout da aula e decidi criar um site de peixes porquê sim. Bem, como meu nível ainda é baixo, eu levei várias horas brincando e quebrando a cabeça com esse site e muito mais com a pesquisa sobre os peixes para deixar o assunto coerente. 
 
 Utilizei algumas classes do CSS e modifiquei várias classes do Bootstrap para que ele mantivesse as imagens nos containeres sem que eu tivesse que editar.
 </p>
